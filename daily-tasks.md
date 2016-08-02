@@ -6,4 +6,4 @@ Learn SASS
 - learn @import 
 - learn @functions
 - learn variables in sass 
-- learn media quries and key frames 
+- learn media queries and key frames 
