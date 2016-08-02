@@ -1,3 +1,7 @@
+  August 2
+-------------
+
+
 1.Learned Bootstrap basics and practiced bootstrap in middleman.
 2.Learned how to configure and use Bootstrap templates in middleman and also imported a bootstrap template in middleman.
 
